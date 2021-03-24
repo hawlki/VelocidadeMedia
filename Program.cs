@@ -35,8 +35,6 @@ namespace velocidadeMedia
             Console.ReadKey();
 
             Console.Clear();
-
-
         }
     }
 }

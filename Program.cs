@@ -9,11 +9,9 @@ namespace velocidadeMedia
             Console.Clear();
             Console.Beep();
 
-            Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo Lopes");
-            Console.WriteLine("1I3");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("      Velocidade média      ");
+            Console.WriteLine("----------------------------");
 
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("Insira os dados a seguir:");
